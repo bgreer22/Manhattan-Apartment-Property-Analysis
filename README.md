@@ -1,1 +1,3 @@
 # Manhattan-Apartment-Property-Analysis
+
+In this project, I analyze Manhattan apartment data taken from StreetEasy using python (pandas, numpy, matplotlib/seaborn, and scikit-learn). I look at different attributes of apartments such as rent price, # of bedrooms, and distance to the subway, and analyze descriptive statistics + trends of the properties through data visualization (histograms and scatterplots) and properties such as skew and outliers. I also implement the multilinear regression capabilities of scikit-learn to calculate linear coefficients for each feature of an apartment to determine its weight in predicting rent price and utilize R^2 regression to evaluate the success of the model.
